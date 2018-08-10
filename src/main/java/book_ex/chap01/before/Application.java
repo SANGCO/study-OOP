@@ -1,9 +1,9 @@
 package book_ex.chap01.before;
 
-import madvirus.oodp.chap01.Button;
-import madvirus.oodp.chap01.Component;
-import madvirus.oodp.chap01.Menu;
-import madvirus.oodp.chap01.OnClickListener;
+import book_ex.chap01.Button;
+import book_ex.chap01.Component;
+import book_ex.chap01.Menu;
+import book_ex.chap01.OnClickListener;
 
 public class Application implements OnClickListener {
 
